@@ -1,0 +1,235 @@
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+  font-family: "Myriad Pro", Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+
+  color: #373a39;
+}
+ul {
+  display: flex;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.header {
+  height: 100vh;
+  background-image: url(../images/header-bg.jpg);
+}
+.header__top {
+}
+.header__top-inner {
+  display: flex;
+  justify-content: space-between;
+  padding: 26px 52px;
+}
+.logo {
+}
+.logo__link {
+  outline: none;
+}
+.logo__img {
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+}
+.menu {
+}
+.menu__list {
+}
+.menu__list-item {
+}
+.menu__link {
+}
+.menu__link--active {
+}
+.header__content {
+}
+.header__content-inner {
+}
+.header__title {
+}
+.header__text {
+}
+.header__icon {
+}
+.about {
+}
+.about__inner {
+}
+.title {
+}
+.about__title {
+}
+.about__text {
+}
+.expertise {
+}
+.expertise__title {
+}
+.expertise__statistic-inner {
+}
+.expertise__statistic-items {
+}
+.espertise__statistic-item {
+}
+.expertise__statistic-bar {
+}
+.expertise__statistic-text {
+}
+.expertise__ststistic-value {
+}
+.expertise__statistic-description {
+}
+.expertise__content-items {
+}
+.expertise__content-item {
+}
+.expertise__content-img {
+}
+.expertise__content-box {
+}
+.expertise__content-title {
+}
+.expertise__content-text {
+}
+.features {
+}
+.feuteres__inner {
+}
+.features__title {
+}
+.features__text {
+}
+.portfolio {
+}
+.portfolio__top {
+}
+.portfolio__title {
+}
+.portfolio__buttons {
+}
+.portfolio__btn {
+}
+.portfolio__items-img {
+}
+.portfolio__item-img {
+}
+.portfolio__item-title {
+}
+.portfolio__item-description {
+}
+.portfolio__btn-more {
+}
+.testimonial {
+}
+.testimonial__text {
+}
+.testimonial__author {
+}
+.video {
+}
+.video__content {
+}
+.video__link {
+}
+.facts {
+}
+.facts__items {
+}
+.facts__item {
+}
+.facts__item-number {
+}
+.facts__item-text {
+}
+.slider {
+}
+.slider__item {
+}
+.slider__item-title {
+}
+.slider__item-text {
+}
+.team {
+}
+.team__title {
+}
+.team__list-persons {
+}
+.team__person {
+}
+.team__person-img {
+}
+.team__person-name {
+}
+.team__person-post {
+}
+.price {
+}
+.price__title {
+}
+.price__items {
+}
+.price__item {
+}
+.price__head {
+}
+.price__price {
+}
+.price__price-period {
+}
+.price__list {
+}
+.price__list-item {
+}
+.price__btn {
+}
+.contact {
+}
+.contact__title {
+}
+.contact__form {
+}
+.contact__form-name {
+}
+.contact__form-email {
+}
+.contact__form-message {
+}
+.contact__form-btn {
+}
+.footer {
+}
+.footer__logo {
+}
+.footer__logo-link {
+}
+.footer__logo-img {
+}
+.footer__socials-items {
+}
+.footer__socials-item {
+}
+.footer__socials-link {
+}
+.footer__adress {
+}
+.footer__phone {
+}
+.footer__email {
+}
+.footer__to-top {
+}
+.footer__copyright {
+}
